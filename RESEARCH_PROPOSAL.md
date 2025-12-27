@@ -22,4 +22,14 @@ A detection‑and‑attribution approach will be employed to separate the ENSO�
 - Constructing a “ENSO‑only” counterfactual by subtracting the multi‑model mean response to greenhouse‑gas forcing (from CMIP5/CMIP6 historical runs) from the observed anomalies.
 - Comparing the residual anomalies with the simulated ENSO‑related variability from models that capture the observed ENSO–precipitation teleconnections.
 
+## Critique of GCM Performance
+
+Global Climate Models (GCMs) failed to predict the severity of the 2011 South African floods for several fundamental reasons:
+
+1. **Inadequate Representation of ENSO Temporal Dynamics:** Many GCMs exhibit biases in the timing, duration, and peak intensity of La Niña events. The 2010‑2011 La Niña peaked earlier and with stronger cooling in the central Pacific than most models simulated, leading to an underestimation of its impact on Southern Hemisphere circulation.
+
+2. **Poor Resolution of Regional Teleconnections:** Even when ENSO is reasonably captured in the tropical Pacific, GCMs often misrepresent the atmospheric wave trains that convey the signal to southern Africa. The models’ coarse horizontal resolution dampens or displaces the Rossby‑wave response, weakening the precipitation anomaly over the eastern South African coast.
+
+3. **Neglect of Sub‑Grid Scale Orographic Effects:** The steep escarpment of the Drakensberg Mountains plays a crucial role in enhancing rainfall during onshore flow. GCMs, with typical grid spacings of 100 km or more, cannot resolve this topography, thereby missing a key mechanism that amplified the 2011 floods.
+
 By following this methodology, we intend to demonstrate that the 2011 floods were a predictable outcome of a well‑defined ENSO phase, and that Global Climate Models (GCMs) failed to anticipate the event because they either misrepresent the timing/intensity of the La Niña or its teleconnections to southern Africa.
